@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/s169537/NettbutikkFAQ" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="FAQspørsmål-Web.config Connection String" description="" value="Data Source=(LocalDB)\v11.0;AttachDbFilename='|DataDirectory|Mobaton.mdf';Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FAQspørsmål']/@connectionString" />
+  </parameter>
+  <parameter name="Mailspørsmål-Web.config Connection String" description="" value="Data Source=dotnet.cs.hioa.no;User ID=s169537;Password=bukl9swap" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Mailspørsmål']/@connectionString" />
+  </parameter>
+  <parameter name="NettbutikkFAQ.FaqsContext-Web.config Connection String" description="" value="NettbutikkFAQ.FaqsContext_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NettbutikkFAQ.FaqsContext']/@connectionString" />
+  </parameter>
+  <parameter name="NettbutikkFAQ.MailspørsmålContext-Web.config Connection String" description="" value="NettbutikkFAQ.MailspørsmålContext_ConnectionString" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NettbutikkFAQ.MailspørsmålContext']/@connectionString" />
+  </parameter>
+</parameters>

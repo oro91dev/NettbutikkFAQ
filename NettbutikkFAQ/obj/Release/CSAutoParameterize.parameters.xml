@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FAQspørsmål-Web.config Connection String" description="FAQspørsmål Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\v11.0;AttachDbFilename='|DataDirectory|Mobaton.mdf';Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FAQspørsmål']/@connectionString" />
+  </parameter>
+  <parameter name="Mailspørsmål-Web.config Connection String" description="Mailspørsmål Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\v11.0;AttachDbFilename='|DataDirectory|Mobaton.mdf';Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Mailspørsmål']/@connectionString" />
+  </parameter>
+  <parameter name="NettbutikkFAQ.FaqsContext-Web.config Connection String" description="NettbutikkFAQ.FaqsContext Connection String used in web.config by the application to access the database." defaultValue="NettbutikkFAQ.FaqsContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NettbutikkFAQ.FaqsContext']/@connectionString" />
+  </parameter>
+  <parameter name="NettbutikkFAQ.MailspørsmålContext-Web.config Connection String" description="NettbutikkFAQ.MailspørsmålContext Connection String used in web.config by the application to access the database." defaultValue="NettbutikkFAQ.MailspørsmålContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\olavro\\Desktop\\oblig1\\NettbutikkFAQ\\NettbutikkFAQ\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NettbutikkFAQ.MailspørsmålContext']/@connectionString" />
+  </parameter>
+</parameters>

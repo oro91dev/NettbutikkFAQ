@@ -1,0 +1,14 @@
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\bin\NettbutikkFAQ.dll
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\bin\NettbutikkFAQ.pdb
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\obj\Debug\NettbutikkFAQ.csprojResolveAssemblyReference.cache
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\obj\Debug\NettbutikkFAQ.dll
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\obj\Debug\NettbutikkFAQ.pdb
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\bin\EntityFramework.dll
+C:\Users\olavro\Documents\Visual Studio 2012\Projects\NettbutikkFAQ\NettbutikkFAQ\bin\EntityFramework.xml
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\bin\NettbutikkFAQ.dll
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\bin\NettbutikkFAQ.pdb
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\bin\EntityFramework.dll
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\bin\EntityFramework.xml
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\obj\Debug\NettbutikkFAQ.csprojResolveAssemblyReference.cache
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\obj\Debug\NettbutikkFAQ.dll
+C:\Users\olavro\Desktop\oblig1\NettbutikkFAQ\NettbutikkFAQ\obj\Debug\NettbutikkFAQ.pdb

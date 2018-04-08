@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="NettbutikkFAQ.Layout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Nettbutikk</title>
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="CSS/Style.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+	<h1>MOBATON</h1>
+</div>
+ <div id="header2">
+	  <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</div>  
+<div id="menu">
+	<ul>
+		<li><a href="Kundesenter.aspx">Kundesenter</a></li>
+		<li><a href="OSpørsmål.aspx">Ofte stilte spørsmål</a></li>
+		<li><a href="ASpørsmål.aspx">Alle spørsmål</a></li>
+		<li><a href="Kontaktinformasjon.aspx">Kontaktinformasjon</a></li>
+		<li><a href="OM.aspx">Om oss</a></li>
+	</ul>
+</div>
+<div id="content">
+	<div id="left">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	</div>
+	<div id="right">
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+	</div>
+</div>
+ <div id="footer">
+     <p>Designed by Ro <br />Copyright &copy; 2013 MOBATON </p>
+</div>
+    </form>
+</body>
+</html>
